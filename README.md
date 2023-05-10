@@ -1,8 +1,10 @@
 # OperationalAmplifiers
 
+![Image1](/Resources/Screenshot1.png)
+
 ## About
 
-### A Winner of the WWDC 23 Apple Swift Student Challenge! 😍
+### A Winner of the WWDC23 Apple Swift Student Challenge! 😍
 
 OperationalAmplifiers is an interactive app which aims to educate young students about operational amplifiers, an essential electronic component. With an emphasis on interactivity, the app is designed to engage and entertain young learners.
 
